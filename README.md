@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Abdurahmon10
+- 👋 Hi, I’m @Abdurahmon
 - 👀 I’m interested in Problem solving , data analytics, ai and engineering
 - 🌱 I’m currently learning Python&C++
 - 💞️ I’m looking to collaborate on Nothing yet
